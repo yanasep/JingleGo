@@ -1,3 +1,4 @@
 # JingleGo
-Java final project
+Java final project.
 
+Side scrolling running game.
