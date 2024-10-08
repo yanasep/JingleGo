@@ -1,7 +1,5 @@
 # JingleGo
-Java final project.
-
-Side scrolling running game.
+2D side scrolling platformer
 
 Tested environment: Ubuntu 18.04, openjdk 11
 
